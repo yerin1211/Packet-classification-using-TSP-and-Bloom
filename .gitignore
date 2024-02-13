@@ -1,0 +1,7 @@
+.vscode/
+Debug/
+Bloom_Extended.vcxproj
+Bloom_Extended.vcxproj.filters
+Bloom_Extended.vcxproj.user
+crctest.cpp
+test.cpp
